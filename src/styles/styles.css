@@ -1,0 +1,17 @@
+:root{
+    --bg-clr: #111827;
+    --component-clr: #1e293b;
+    --border-clr: #1e40af;
+    --text-clr: white;
+    --logo-clr: #656ed4;
+}
+
+body{
+    background-color: var(--bg-clr);
+    color:var(--text-clr);
+    font-family: "Poppins";
+    
+    height: 100vh;
+    width: 100%;
+    overflow-y: auto;
+}
