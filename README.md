@@ -2,19 +2,13 @@
 
 **WeatherScope** is a weather application that fetches real-time and weekly weather data using the [Visual Crossing Weather API](https://www.visualcrossing.com/). Built with modern JavaScript and styled for clarity, it delivers essential weather details in a user-friendly format.
 
----
-
 ## 🔗 Live Demo
 
 https://fa1sall.github.io/WeatherScope/
 
----
-
 ## 📸 Preview
 
 ![WeatherScope UI](./src/assets/screenshot.jpeg)
-
----
 
 ## 🔍 Key Features
 
@@ -23,8 +17,6 @@ https://fa1sall.github.io/WeatherScope/
 - 🕒 Displays hourly forecast for the current day
 - 📆 Provides a 7-day forecast including highs, lows, and conditions
 - 🖥️ Responsive design for both desktop and mobile views
-
----
 
 ## 🛠️ Built With
 
@@ -35,8 +27,6 @@ https://fa1sall.github.io/WeatherScope/
 - **[Visual Crossing Weather API](https://www.visualcrossing.com/)** – Real-time weather data
 - **[date-fns](https://date-fns.org/)** – Lightweight date formatting and manipulation
 
----
-
 ## 🧠 Concepts Practiced
 
 - API consumption and dynamic data rendering
@@ -44,8 +34,6 @@ https://fa1sall.github.io/WeatherScope/
 - DOM manipulation and component structuring
 - Working with time-based data using `date-fns`
 - Creating a modular and maintainable codebase
-
----
 
 ## 🚀 Getting Started
 
